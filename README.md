@@ -32,3 +32,6 @@ A DHT sensor (such as the DHT11 or DHT22) is a commonly used sensor for measurin
 
 4. *Arduino Code*:
     - Below is a sample code to read from the DHT sensor and display the readings on the serial monitor or an LCD screw.
+  
+
+      
