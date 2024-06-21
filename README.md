@@ -1,11 +1,11 @@
-# CODETECH-TASK-2
+ CODETECH-TASK-2
 To interface a DHT sensor with an Arduino for measuring temperature and humidity and display the readings on an LCD screen or serial monitor, follow these steps:
 
-### Introduction
+ Introduction
 
 A DHT sensor (such as the DHT11 or DHT22) is a commonly used sensor for measuring temperature and humidity. These sensors provide digital output and are easy to interface with microcontrollers like the Arduino. This project involves reading temperature and humidity data from a DHT sensor and displaying the information either on an LCD screen or through the serial monitor of the Arduino IDE.
 
-### Materials Needed
+ Materials Needed
 
 - Arduino board (e.g., Uno)
 - DHT sensor (DHT11 or DHT22)
@@ -13,7 +13,7 @@ A DHT sensor (such as the DHT11 or DHT22) is a commonly used sensor for measurin
 - Resistor (10kΩ, if needed for the LCD contrast adjustment)
 - Breadboard and jumper wires
 
-### Steps to Interface the DHT Sensor with Arduino
+ Steps to Interface the DHT Sensor with Arduino
 
 1. *Wiring the DHT Sensor*:
     - Connect the VCC pin of the DHT sensor to the 5V pin on the Arduino.
